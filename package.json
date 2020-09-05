@@ -1,0 +1,14 @@
+{
+  "name": "rpsbot",
+  "version": "1.0.0",
+  "description": "bot where u can play rock paper scissors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chad :)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
